@@ -1,4 +1,4 @@
-# tcp-server
+# tcp-server practice
 
 Simple tcp server practice.
 
